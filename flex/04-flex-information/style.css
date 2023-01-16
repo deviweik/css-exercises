@@ -10,6 +10,20 @@ img {
 .title {
   font-size: 36px;
   font-weight: 900;
+  display: flex;
+  justify-content: center;
+  margin: 0px 0px 32px 0px;
+}
+
+.content {
+  display: flex;
+  justify-content: space-around;
+  gap: 52px;
+}
+
+.cont {
+  text-align: center;
+  width: 200px;
 }
 
 /* do not edit this footer */
